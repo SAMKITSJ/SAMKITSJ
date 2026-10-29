@@ -13,7 +13,7 @@
   </table>
 </div>
 <div align="right">
-  ## Hi, I am Samkit Jain
+## Hi I am Samkit Jain
 </div>
 
 ## 💻 About Me
