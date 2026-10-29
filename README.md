@@ -4,7 +4,7 @@
       <!-- Left: Profile Photo -->
       <td width="220" align="center" valign="middle">
         <img
-          src="https://github.com/YOUR_USERNAME.png"
+          src="assets/SamSj.png"
           width="180"
           alt="Ayan Magardey"
         />
