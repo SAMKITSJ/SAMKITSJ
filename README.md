@@ -9,43 +9,9 @@
           alt="Ayan Magardey"
         />
       </td>
-
-      <!-- Right: Profile Details -->
-      <td valign="middle">
-
-        <h1>Hey, I'm Ayan Magardey 👋</h1>
-
-        <h3>Full-Stack Developer | Founder at ZSYIO</h3>
-
-        <p>
-          I build scalable web applications, intelligent systems,
-          and immersive digital experiences.
-        </p>
-
-        <p>
-          🚀 Founder of ZSYIO<br>
-          💻 Full-Stack Developer<br>
-          🤖 Interested in AI and automation<br>
-          🎨 Exploring 3D web experiences
-        </p>
-
-        <p>
-          <a href="https://ayanmagardey.in">
-            <img src="https://img.shields.io/badge/Portfolio-Visit-18181B?style=for-the-badge" alt="Portfolio">
-          </a>
-          <a href="https://github.com/YOUR_USERNAME">
-            <img src="https://img.shields.io/badge/GitHub-Profile-18181B?style=for-the-badge&logo=github" alt="GitHub">
-          </a>
-          <a href="YOUR_LINKEDIN_URL">
-            <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-          </a>
-        </p>
-
-      </td>
     </tr>
   </table>
 </div>
-
 ---
 
 ## 💻 About Me
